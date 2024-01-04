@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hola1
 hola2
 hola3
+=======
+hola reflex
+>>>>>>> cef0d3b6937d2b6cb0df5dd9fd9c6d01e266bc7c
