@@ -1,1 +1,1 @@
-holamundo
+print("Hola mundo de oscar")
