@@ -1,1 +1,2 @@
-hola como estas
+a="hola como estas"
+print(a)
